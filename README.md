@@ -25,3 +25,6 @@ verification avec un grpc qui postman recuperation d'un compte
 
 Liste de tout les comptes
 ![Capture d’écran 2022-09-06 à 1 59 17 AM](https://user-images.githubusercontent.com/102439475/188525649-08a5fc63-1880-46f4-80a1-226adb36cf3d.png)
+
+Test du GRPC avec un client java
+![Capture d’écran 2022-09-06 à 2 57 15 AM](https://user-images.githubusercontent.com/102439475/188530892-45257700-5c8b-4f1f-a130-4208236a35bd.png)
